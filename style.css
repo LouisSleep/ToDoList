@@ -131,7 +131,7 @@ h1 {
 }
 
 .deleteAnimation {
-  transform: translateY(8rem) rotateZ(25deg);
+  transform: translateY(55rem) rotateZ(25deg);
   opacity: 0;
 }
 
